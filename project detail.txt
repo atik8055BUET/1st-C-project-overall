@@ -1,0 +1,34 @@
+Here you can do this function that are given below.
+1)General calculation like +,-,*,/
+        1)Addition
+        2)Substraction
+        3)Multipication
+        4)Divition
+        5)Divion with module
+        6)Sum of n number
+        7)product of n number
+	
+2)Temperature calculation cel.kel.fer.
+	1)c to f
+	2)c to k
+	3)f to c
+	4)f to k
+	5)k to c
+	6)k to f
+3)Series calculation like factorial
+	1)Sum of Numbers
+	2)Sum of positive Numbers
+	3)Sum of negetive Numbers
+	4)Factorial
+	5)Print Numbers
+4)GCD & LCM calculation
+	1)Define GCD of n numbers
+	2)Define LCM of n numbers
+5)Play a game or toss!
+        1)play a game
+        2)You can toss n time
+        3)play can head-tail with computer
+        4)play tic tac toe game
+6)Other short program
+	1)check prime number:
+	2)print prime number:
